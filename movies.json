@@ -1,0 +1,17 @@
+
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "poster": "images/inception.jpg",
+    "description": "A thief who steals corporate secrets through dreams."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 8.4,
+    "poster": "images/endgame.jpg",
+    "description": "After the devastating events, heroes assemble again."
+  }
+]
